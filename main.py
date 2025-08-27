@@ -3,7 +3,7 @@ from Entidades.Voo import Voo
 
 def exibir_informacoes():
     print("-" * 50)
-    print("Bem vindo ao sistema da companhia aerea CEDERJ-AERO")
+    print("Bem vindo ao sistema da companhia aerea AERO")
     print("-" * 50)
 
 def main():
